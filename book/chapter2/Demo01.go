@@ -15,4 +15,21 @@ func main() {
 
 	var cc = complex(5.67, 99.09)
 	fmt.Printf("re: ", real(cc), "im:", imag(cc))
+
+	//var (
+	//	a   int
+	//	b   bool
+	//	str string
+	//	浮点  float32
+	//)
+	//println(a)
+	//println(b)
+	//println(str)
+	//println(浮点)
+
+	a, b, x := 5, true, "aasa"
+	println(a)
+	println(b)
+	println(x)
+
 }
